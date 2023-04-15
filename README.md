@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://chronark.com"><h1 align="center">chronark.com</h1></a>
-    <h5>My stuff</h5>
+    <a href="https://chronark.com"><h1 align="center">SkullFace.com</h1></a>
+    <h5>Welcome to me Personal Space</h5>
 </div>
 
 <br/>
