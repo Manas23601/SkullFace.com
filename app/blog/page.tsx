@@ -12,7 +12,7 @@ const socials = [
 		handle: "SeaRidges",
 	},
 	{
-		icon: <User Blog size={20} />,
+		icon: <User size={20} />,
 		href: "https://searidges.hashnode.dev/",
 		label: "WordPress Personal Blog",
 		handle: "Dragon Hood",
